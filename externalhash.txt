@@ -1,0 +1,35 @@
+#Tools Associated with the Loki Ransomware
+112b222381dcd11616fcca1af5363f829568ab1ea992fd86aa80d97ce43f2236
+
+#Tools Associated with the Loki Ransomware
+56a2236b6cddb83d076bc08c0148086670eaebc346222b1a410790a5b573daac
+
+#DControl
+6606d759667fbdfaa46241db7ffb4839d2c47b88a20120446f41e916cad77d0b
+
+#Advanced Port Scanner 2.5.3869
+d0c1662ce239e4d288048c0e3324ec52962f6ddda77da0cb7af9c1d9c2f1e2eb
+
+#Loki Ransomware SHA256
+bd624d91df6000180050af8bd1dac482f6e9bc84da682a8fec3f6c6c91623f93
+
+#China Chopper Web Shell
+44641890a812271c1fd95aa9e72d796b7dda0695c606cb0f887e83eaa9f7e02a
+
+#China Chopper Web Shell
+fcb0487f1adcdc19a27552e01fcd4a3d5ea4f31f4d45d1c5d1026a900a984052
+
+#LemonDuck Cryptomalware
+9bc80be9d66559275c1e6e365be78c94865709f43bbc1b48919790f2867f1392
+
+#LemonDuck Cryptomalware
+e8010a6942b70918ff01219128a005e13bcbc41b62e88261803cedf086738266
+
+#LemonDuck Cryptomalware
+6a047d6fdf562d0cf66e9c3f7a91e826ed9d12f295cfcae4e4fc8975a743413f
+
+#Razy Cryptomalware
+a7dbb4484f05c1c7e71134bc55e47daa9d0726d956a89f53b1f79a5fce34e30e
+
+#Razy Cryptomalware
+5666c5bb0efcf74d962e25f75ee73f37f9c02c9c1d5f7761f3804458185252b0
